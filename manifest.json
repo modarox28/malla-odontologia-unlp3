@@ -1,0 +1,15 @@
+{
+  "name": "Malla Odontolog\u00eda",
+  "short_name": "Odonto UNLP",
+  "start_url": "./index_interactivo.html",
+  "display": "standalone",
+  "background_color": "#f8bbd0",
+  "theme_color": "#f8bbd0",
+  "icons": [
+    {
+      "src": "icon_diente.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
